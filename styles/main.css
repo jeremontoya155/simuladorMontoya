@@ -1,0 +1,18 @@
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+body {
+  background-color: wheat;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4em;
+}
+
+.centrar {
+  margin-left: 4em;
+  margin-right: 2em;
+  text-align: center;
+}
